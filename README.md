@@ -13,7 +13,7 @@ The code is written in python version 3, using Jupyter notebooks as it is availa
 
 You can directly fork this repository on Google Colab engine by using this link:
 
-[Run on Colab](https://colab.research.google.com/github/Sinamirshahi/stockfuzzymodeling/blob/main/before_new_year.ipynb)
+[Run on Colab](https://colab.research.google.com/github/Sinamirshahi/stockfuzzymodeling/blob/main/all_regions_of_stock_project.ipynb)
 
 
 

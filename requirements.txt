@@ -1,0 +1,13 @@
+matplotlib
+seaborn
+numpy
+pandas
+opencv-python
+scikit-learn
+scipy
+requests
+yfinance
+pandas_datareader
+jupyter
+rpy2
+
