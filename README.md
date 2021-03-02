@@ -48,5 +48,4 @@ Any sugesstion and modification are welcomed, just let us know.
 
 
 ## License
-
-This project is licensed under the MIT License.
+If you would like to use the code, please site us.
