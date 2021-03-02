@@ -48,4 +48,4 @@ Any sugesstion and modification are welcomed, just let us know.
 
 
 ## License
-If you would like to use the code, please site us.
+If you would like to use the code, please site this work.
