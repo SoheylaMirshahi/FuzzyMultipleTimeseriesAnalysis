@@ -11,3 +11,5 @@ pandas_datareader
 jupyter
 rpy2
 
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
